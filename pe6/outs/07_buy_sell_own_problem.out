@@ -1,0 +1,20 @@
+Properties of Ahmet:
+Balance: 5000$
+1. Villa 1
+Properties of ACME:
+Balance: 5000$
+1. Apartment 1
+2. Office 1
+-----------------------------------
+[BUY] Property: Villa 1 Value: 3000$ ACME--->Ahmet
+[ERROR] Transaction  on  unowned  property
+[SELL] Property: Villa 1 Value: 3000$ ACME--->Ahmet
+[ERROR] Transaction  on  unowned  property
+-----------------------------------
+Properties of Ahmet:
+Balance: 5000$
+1. Villa 1
+Properties of ACME:
+Balance: 5000$
+1. Apartment 1
+2. Office 1
